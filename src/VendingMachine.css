@@ -1,0 +1,5 @@
+.vending-machine-items {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+}
